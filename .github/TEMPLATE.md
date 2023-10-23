@@ -1,10 +1,10 @@
-# [Newfold Digital](https://newfold.com/)
+# [Company Name](Company Link)
 
 ## Details
 
 ### Job Status
 
-Full Time (Employment + Internship Mandatory)
+> Example: Full Time (Employment + Internship Mandatory)
 
 ### Criteria
 
@@ -18,18 +18,18 @@ Full Time (Employment + Internship Mandatory)
 
 ### Compensation
 
-|                             | FTE     | Internship |
-|-----------------------------|---------|------------|
-| Base                        | 10LPA   | 50000      |
-| Bonus                       | 1L      | --         |
-| Anniversary Bonus (y2 & y3) | 1L + 1L | --         |
-| CTC                         | 13LPA   | --         |
+|        | FTE | Internship |
+|--------|-----|------------|
+| Base   | --  | --         |
+| Stocks | --  | --         |
+| Bonus  | --  | --         |
+| CTC    | --  | --         |
 
 [comment]: # (Details about the rounds go under this comment.)
 
-## Round 1 (TODO)
+## Round 1
 
-> 23/08/23
+> Date in DD/MM/YY
 
 [comment]: # (Summary of the sections and experience below this comment.)
 
@@ -40,6 +40,8 @@ Full Time (Employment + Internship Mandatory)
 > Explanation (optional).
 
 [comment]: # (Add any resources or links or code to this question under this comment.)
+
+---
 
 2. Q2
 

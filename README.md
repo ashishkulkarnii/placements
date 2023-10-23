@@ -5,10 +5,9 @@
 ## Tier 1
 
 - [Amadeus Software Labs](./placements/amadeus.md)
-- [Applied Materials](./placements/applied_materials.md)
 - [Arista](./placements/arista.md)
 - [Arm Technologies](./placements/arm.md)
-- [Baxter](./placements/baxter.md)
+- [Aurva](./placements/aurva.md)
 - [British Telecom](./placements/british_telecom.md)
 - [Cisco](./placements/cisco.md)
 - [Cloudera](./placements/cloudera.md)
@@ -18,18 +17,14 @@
 - [Deutsche Bank](./placements/deutsche.md)
 - [Dish Network](./placements/dish.md)
 - [Egnyte](./placements/egnyte.md)
-- [Epsilon](./placements/epsilon.md) (missing)
 - [Hewlett Packard Enterprise (HPE)](./placements/hpe.md)
 - [Hyperface](./placements/hyperface.md)
 - [IBM](./placements/ibm.md)
 - [Infibeam](./placements/infibeam.md)
 - [Intuit](./placements/intuit.md)
-- [Kickdrum](./placements/kickdrum.md) (missing)
 - [MakeMyTrip](./placements/makemytrip.md)
 - [Morgan Stanley](./placements/morgan_stanley.md)
 - [NatWest](./placements/natwest.md)
-- [Newfold Digital](./placements/newfold_digital.md) (missing)
-- [Nvidia](./placements/nvidia.md)
 - [Pure Storage](./placements/pure_storage.md)
 - [RingCentral](./placements/ring_central.md)
 - [Sahaj](./placements/sahaj.md)
@@ -44,19 +39,50 @@
 
 ## Tier 2
 
+- [Applied Materials](./placements/applied_materials.md)
+- [Baxter](./placements/baxter.md)
 - [Broadridge](./placements/broadridge.md)
 - [Eli Lilly](./placements/eli_lilly.md)
 - [Deloitte](./placements/deloitte.md)
 - [Hiver](./placements/hiver.md)
+- [IDfy](./placements/idfy.md)
+- [Microchip](./placements/microchip.md)
 - [PricewaterhouseCoopers (PwC)](./placements/pwc.md)
 - [Truminds](./placements/truminds.md)
-- [Volvo](./placements/volvo.md) (missing)
 
 ## Internship Only
 
 - [Intel](./placements/intel.md)
+- [Nvidia](./placements/nvidia.md)
+- [Samsung Research Institue](./placements/samsung_rnd.md)
 - [Samsung Semiconductors](./placements/samsung_semiconductor.md)
+- [Zynga](./placements/zynga.md)
 
 ## Hackathon
 
 - [Amazon Hackon](./placements/amazon_hackon.md)
+
+## Missing
+
+- Accenture
+- Arup India
+- AstraZeneca
+- Bain Capability
+- Deltax
+- Dover
+- DXC
+- Epsilon
+- EY India
+- Kickdrum
+- KPMG
+- Lam Research
+- Newfold Digital
+- Perfios
+- SAP Labs
+- SecPod
+- Siemens
+- Subex
+- Tech Mahindra
+- Tejas Networks
+- Volvo
+- Zebra Tech
